@@ -1,6 +1,6 @@
 # Local Tourist Day-Visit Planner & Information System
 
-A complete PHP + MySQL + Bootstrap + JavaScript + Leaflet web application inspired by the supplied UI image.
+A complete PHP + MySQL + Bootstrap + JavaScript + Google map application inspired by the supplied UI image.
 
 ## Technology
 - PHP 8+
