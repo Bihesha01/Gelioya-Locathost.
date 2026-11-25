@@ -8,7 +8,7 @@ A complete PHP + MySQL + Bootstrap + JavaScript + Leaflet web application inspir
 - HTML5 / CSS3
 - Bootstrap 5
 - JavaScript
-- Leaflet + OpenStreetMap
+- Google Map
 
 ## Main features
 - Responsive home page
